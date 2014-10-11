@@ -1,0 +1,11 @@
+created: 20140418101736712
+filter: [!is[system]has[modified]!sort[modified]]
+modified: 20141011161115049
+tags: general
+title: About
+type: text/vnd.tiddlywiki
+
+This TiddlyWiki is about SuperCollider.
+Here are some recent entries:
+
+<$list filter="[!is[system]has[modified]!sort[modified]]">
