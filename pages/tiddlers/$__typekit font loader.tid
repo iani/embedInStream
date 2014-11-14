@@ -1,7 +1,7 @@
 created: 20141114093539823
-modified: 20141114093939744
+modified: 20141114095114878
 tags: $:/tags/RawMarkup
-title: typekit font loader
+title: $:/typekit font loader
 type: text/vnd.tiddlywiki
 
 <script src="//use.typekit.net/pnq6csb.js"></script>

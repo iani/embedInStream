@@ -1,7 +1,7 @@
 created: 20141114094212198
-modified: 20141114094251090
+modified: 20141114095100437
 tags: $:/tags/Stylesheet
-title: Custom Tiddler Body Font Size
+title: $:/Custom Tiddler Body Font Size
 type: text/vnd.tiddlywiki
 
 .tc-tiddler-frame .tc-tiddler-body {
